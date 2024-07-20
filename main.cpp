@@ -1131,8 +1131,7 @@ void introduction()
     print(370, 410, 1, 0, 0, "CITY VIEW OPENGL PROJECT", GLUT_BITMAP_HELVETICA_18);
 //    print(415, 373, 1, 1, 1, "Lab inch", GLUT_BITMAP_HELVETICA_12);
     print(375, 320, 0, 0, 1, "Minaam Reyaz Qureshi   1BI20CS108", GLUT_BITMAP_HELVETICA_18);
-    print(375, 290, 0, 0, 1, "Abdul Mannan Khan ", GLUT_BITMAP_HELVETICA_18);
-    print(578, 290, 0, 0, 1, "1BI20CS406" , GLUT_BITMAP_HELVETICA_18);
+  
     print(50, 215, 1, 1, 1, "INSTRUCTIONS: ", GLUT_BITMAP_HELVETICA_12);
     print(50, 190, 1, 1, 1, "-> Press \' r \' to enter into the scene", GLUT_BITMAP_HELVETICA_12);
     print(50, 175, 1, 1, 1, "-> Press \' UP ARROW \' to increase car speed", GLUT_BITMAP_HELVETICA_12);
